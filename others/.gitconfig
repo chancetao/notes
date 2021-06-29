@@ -1,0 +1,17 @@
+[alias]
+    aa = add .
+    br = branch
+    cm = commit -m
+    co = checkout -b
+    cp = cherry-pick
+    sh = stash
+    sl = stash list
+    sp = stash pop
+    ss = stash save
+    sq = rebase -i HEAD~2
+    pf = push -f
+[user]
+    name = Chance Tao
+    email = taochong7@gmail.com
+[github]
+    user = chancetao
