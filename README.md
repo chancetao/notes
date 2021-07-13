@@ -1,2 +1,2 @@
-# nodes
+# notes
 My notes, nothing pretty
